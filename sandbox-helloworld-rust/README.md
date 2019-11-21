@@ -1,2 +1,2 @@
-# ssandbox-helloworld-rust
+# sandbox-helloworld-rust
 Sandbox Hello World Rust
