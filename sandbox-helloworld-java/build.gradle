@@ -1,0 +1,23 @@
+plugins {
+	id 'java'
+	id 'application'
+}
+
+group = 'sandbox'
+version = '0.1.0'
+sourceCompatibility = '1.8'
+
+mainClassName = "sandbox.HelloWorld"
+
+configurations {
+	developmentOnly
+	runtimeClasspath {
+		extendsFrom developmentOnly
+	}
+}
+
+repositories {
+  jcenter()
+}
+
+dependencies {}
