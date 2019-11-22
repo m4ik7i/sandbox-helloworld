@@ -1,6 +1,7 @@
-﻿module Sandbox.HelloWorld
+namespace Sandbox.HelloWorld
 
-[<EntryPoint>]
-let main argv =
-    printfn "Hello, world!"
-    0
+module Program =
+    [<EntryPoint>]
+    let main argv =
+        printfn "Hello, world!"
+        0
