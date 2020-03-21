@@ -3,6 +3,7 @@ Sandbox Hello World
 
 ## Projects
 
+- [sandbox-helloworld-clojure](./sandbox-helloworld-clojure)
 - [sandbox-helloworld-csharp](./sandbox-helloworld-csharp)
 - [sandbox-helloworld-deno](./sandbox-helloworld-deno)
 - [sandbox-helloworld-fsharp](./sandbox-helloworld-fsharp)
