@@ -15,4 +15,5 @@ Sandbox Hello World
 - [sandbox-helloworld-ocaml](./sandbox-helloworld-ocaml)
 - [sandbox-helloworld-python](./sandbox-helloworld-python)
 - [sandbox-helloworld-reason](./sandbox-helloworld-reason)
+- [sandbox-helloworld-reason-native](./sandbox-helloworld-reason-native)
 - [sandbox-helloworld-rust](./sandbox-helloworld-rust)

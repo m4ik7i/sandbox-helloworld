@@ -1,0 +1,40 @@
+{
+  "name": "sandbox-helloworld-reason-native",
+  "version": "0.1.0",
+  "esy": {
+    "build": "dune build -p <PACKAGE_NAME>",
+    "buildDev": "pesy",
+    "release": {
+      "releasedBinaries": [
+        "SandboxHelloworldReasonNativeApp.exe"
+      ]
+    }
+  },
+  "buildDirs": {
+    "library": {
+      "name": "sandbox-helloworld-reason-native.lib",
+      "namespace": "SandboxHelloworldReasonNative"
+    },
+    "executable": {
+      "require": [
+        "sandbox-helloworld-reason-native.lib"
+      ],
+      "main": "SandboxHelloworldReasonNativeApp",
+      "name": "SandboxHelloworldReasonNativeApp.exe"
+    }
+  },
+  "scripts": {
+    "pesy": "bash -c 'env PESY_MODE=update pesy'"
+  },
+  "dependencies": {
+    "@opam/dune": ">=1.6.0",
+    "@esy-ocaml/reason": "*",
+    "ocaml": "^4.4.0"
+  },
+  "devDependencies": {
+    "ocaml": "4.7.1004",
+    "refmterr": "*",
+    "pesy": "*",
+    "@opam/merlin": "*"
+  }
+}
