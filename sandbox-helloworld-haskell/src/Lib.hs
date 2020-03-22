@@ -3,4 +3,4 @@ module Lib
     ) where
 
 hello :: IO ()
-hello = putStrLn "Hello, World!"
+hello = putStrLn "Hello, world!"
