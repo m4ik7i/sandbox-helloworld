@@ -7,6 +7,7 @@ Sandbox Hello World
 - [sandbox-helloworld-csharp](./sandbox-helloworld-csharp)
 - [sandbox-helloworld-deno](./sandbox-helloworld-deno)
 - [sandbox-helloworld-fsharp](./sandbox-helloworld-fsharp)
+- [sandbox-helloworld-haskell](./sandbox-helloworld-haskell)
 - [sandbox-helloworld-java](./sandbox-helloworld-java)
 - [sandbox-helloworld-node](./sandbox-helloworld-node)
 - [sandbox-helloworld-rust](./sandbox-helloworld-rust)
