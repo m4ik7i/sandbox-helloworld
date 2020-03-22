@@ -10,5 +10,6 @@ Sandbox Hello World
 - [sandbox-helloworld-haskell](./sandbox-helloworld-haskell)
 - [sandbox-helloworld-java](./sandbox-helloworld-java)
 - [sandbox-helloworld-node](./sandbox-helloworld-node)
+- [sandbox-helloworld-ocaml](./sandbox-helloworld-ocaml)
 - [sandbox-helloworld-python](./sandbox-helloworld-python)
 - [sandbox-helloworld-rust](./sandbox-helloworld-rust)

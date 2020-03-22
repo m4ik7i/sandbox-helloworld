@@ -1,0 +1,4 @@
+(executable
+ (public_name sandbox_helloworld_ocaml)
+ (name main)
+ (libraries sandbox_helloworld_ocaml))
