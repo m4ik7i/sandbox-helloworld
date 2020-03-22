@@ -1,0 +1,16 @@
+{
+  "name": "sandbox-helloworld-reason",
+  "version": "0.1.0",
+  "main": "src/Main.bs.js",
+  "scripts": {
+    "build": "bsb -make-world",
+    "start": "bsb -make-world -w",
+    "clean": "bsb -clean-world"
+  },
+  "keywords": [
+    "BuckleScript"
+  ],
+  "devDependencies": {
+    "bs-platform": "^7.2.2"
+  }
+}
