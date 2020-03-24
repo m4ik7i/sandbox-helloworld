@@ -1,4 +1,4 @@
 cd wasm
-cargo build --release
+scripts/build.sh
 cd ..
 cargo run
