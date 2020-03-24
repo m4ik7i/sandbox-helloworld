@@ -19,3 +19,4 @@ Sandbox Hello World
 - [sandbox-helloworld-reason](./sandbox-helloworld-reason)
 - [sandbox-helloworld-reason-native](./sandbox-helloworld-reason-native)
 - [sandbox-helloworld-rust](./sandbox-helloworld-rust)
+- [sandbox-helloworld-rust-wasm](./sandbox-helloworld-rust-wasm)
