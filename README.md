@@ -12,6 +12,7 @@ Sandbox Hello World
 - [sandbox-helloworld-go](./sandbox-helloworld-go)
 - [sandbox-helloworld-haskell](./sandbox-helloworld-haskell)
 - [sandbox-helloworld-java](./sandbox-helloworld-java)
+- [sandbox-helloworld-lua](./sandbox-helloworld-lua)
 - [sandbox-helloworld-nim](./sandbox-helloworld-nim)
 - [sandbox-helloworld-node](./sandbox-helloworld-node)
 - [sandbox-helloworld-ocaml](./sandbox-helloworld-ocaml)
