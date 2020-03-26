@@ -18,6 +18,7 @@ Sandbox Hello World
 - [sandbox-helloworld-python](./sandbox-helloworld-python)
 - [sandbox-helloworld-reason](./sandbox-helloworld-reason)
 - [sandbox-helloworld-reason-native](./sandbox-helloworld-reason-native)
+- [sandbox-helloworld-ruby](./sandbox-helloworld-ruby)
 - [sandbox-helloworld-rust](./sandbox-helloworld-rust)
 - [sandbox-helloworld-rust-wasm](./sandbox-helloworld-rust-wasm)
 - [sandbox-helloworld-vb](./sandbox-helloworld-vb)
