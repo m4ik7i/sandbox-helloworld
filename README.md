@@ -22,4 +22,5 @@ Sandbox Hello World
 - [sandbox-helloworld-ruby](./sandbox-helloworld-ruby)
 - [sandbox-helloworld-rust](./sandbox-helloworld-rust)
 - [sandbox-helloworld-rust-wasm](./sandbox-helloworld-rust-wasm)
+- [sandbox-helloworld-scheme](./sandbox-helloworld-scheme)
 - [sandbox-helloworld-vb](./sandbox-helloworld-vb)
