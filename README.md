@@ -6,6 +6,7 @@ Sandbox Hello World
 
 - [sandbox-helloworld-bucklescript](./sandbox-helloworld-bucklescript)
 - [sandbox-helloworld-clojure](./sandbox-helloworld-clojure)
+- [sandbox-helloworld-commonlisp](./sandbox-helloworld-commonlisp)
 - [sandbox-helloworld-csharp](./sandbox-helloworld-csharp)
 - [sandbox-helloworld-deno](./sandbox-helloworld-deno)
 - [sandbox-helloworld-fsharp](./sandbox-helloworld-fsharp)
