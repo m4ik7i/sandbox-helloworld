@@ -9,6 +9,12 @@ sourceCompatibility = '1.8'
 
 mainClassName = "sandbox.HelloWorld"
 
+jar {
+    manifest {
+        attributes 'Main-Class': mainClassName
+    }
+}
+
 configurations {
     developmentOnly
     runtimeClasspath {
@@ -18,6 +24,7 @@ configurations {
 
 repositories {
     jcenter()
+    mavenCentral()
 }
 
 dependencies {}
