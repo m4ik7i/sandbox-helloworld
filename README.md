@@ -14,6 +14,7 @@ Sandbox Hello World
 - [sandbox-helloworld-haskell](./sandbox-helloworld-haskell)
 - [sandbox-helloworld-io](./sandbox-helloworld-io)
 - [sandbox-helloworld-java](./sandbox-helloworld-java)
+- [sandbox-helloworld-julia](./sandbox-helloworld-julia)
 - [sandbox-helloworld-lua](./sandbox-helloworld-lua)
 - [sandbox-helloworld-nim](./sandbox-helloworld-nim)
 - [sandbox-helloworld-node](./sandbox-helloworld-node)
