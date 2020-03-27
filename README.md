@@ -12,6 +12,7 @@ Sandbox Hello World
 - [sandbox-helloworld-fsharp](./sandbox-helloworld-fsharp)
 - [sandbox-helloworld-go](./sandbox-helloworld-go)
 - [sandbox-helloworld-haskell](./sandbox-helloworld-haskell)
+- [sandbox-helloworld-io](./sandbox-helloworld-io)
 - [sandbox-helloworld-java](./sandbox-helloworld-java)
 - [sandbox-helloworld-lua](./sandbox-helloworld-lua)
 - [sandbox-helloworld-nim](./sandbox-helloworld-nim)
