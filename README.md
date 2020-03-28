@@ -9,6 +9,7 @@ Sandbox Hello World
 - [sandbox-helloworld-commonlisp](./sandbox-helloworld-commonlisp)
 - [sandbox-helloworld-csharp](./sandbox-helloworld-csharp)
 - [sandbox-helloworld-deno](./sandbox-helloworld-deno)
+- [sandbox-helloworld-dlang](./sandbox-helloworld-dlang)
 - [sandbox-helloworld-elixir](./sandbox-helloworld-elixir)
 - [sandbox-helloworld-erlang](./sandbox-helloworld-erlang)
 - [sandbox-helloworld-fsharp](./sandbox-helloworld-fsharp)
