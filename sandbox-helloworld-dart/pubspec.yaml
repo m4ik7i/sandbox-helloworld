@@ -1,0 +1,10 @@
+name: hello_world
+version: 0.1.0
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+
+dev_dependencies:
+  pedantic: ^1.8.0

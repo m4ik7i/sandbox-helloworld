@@ -8,6 +8,7 @@ Sandbox Hello World
 - [sandbox-helloworld-clojure](./sandbox-helloworld-clojure)
 - [sandbox-helloworld-commonlisp](./sandbox-helloworld-commonlisp)
 - [sandbox-helloworld-csharp](./sandbox-helloworld-csharp)
+- [sandbox-helloworld-dart](./sandbox-helloworld-dart)
 - [sandbox-helloworld-deno](./sandbox-helloworld-deno)
 - [sandbox-helloworld-dlang](./sandbox-helloworld-dlang)
 - [sandbox-helloworld-elixir](./sandbox-helloworld-elixir)
