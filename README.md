@@ -34,3 +34,4 @@ Sandbox Hello World
 - [sandbox-helloworld-scheme](./sandbox-helloworld-scheme)
 - [sandbox-helloworld-swift](./sandbox-helloworld-swift)
 - [sandbox-helloworld-vb](./sandbox-helloworld-vb)
+- [sandbox-helloworld-zig](./sandbox-helloworld-zig)
