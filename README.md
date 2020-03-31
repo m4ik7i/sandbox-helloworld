@@ -23,6 +23,7 @@ Sandbox Hello World
 - [sandbox-helloworld-nim](./sandbox-helloworld-nim)
 - [sandbox-helloworld-node](./sandbox-helloworld-node)
 - [sandbox-helloworld-ocaml](./sandbox-helloworld-ocaml)
+- [sandbox-helloworld-prolog](./sandbox-helloworld-prolog)
 - [sandbox-helloworld-python](./sandbox-helloworld-python)
 - [sandbox-helloworld-racket](./sandbox-helloworld-racket)
 - [sandbox-helloworld-reason](./sandbox-helloworld-reason)
