@@ -5,6 +5,7 @@ Sandbox Hello World
 ## Projects
 
 - [sandbox-helloworld-bucklescript](./sandbox-helloworld-bucklescript)
+- [sandbox-helloworld-c](./sandbox-helloworld-c)
 - [sandbox-helloworld-clojure](./sandbox-helloworld-clojure)
 - [sandbox-helloworld-commonlisp](./sandbox-helloworld-commonlisp)
 - [sandbox-helloworld-csharp](./sandbox-helloworld-csharp)
