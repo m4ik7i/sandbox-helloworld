@@ -1,0 +1,8 @@
+name: hello_world
+version: 0.1.0
+
+targets:
+  hello_world:
+    main: src/hello_world.cr
+
+crystal: 0.33.0
