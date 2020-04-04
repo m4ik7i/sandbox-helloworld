@@ -1,4 +1,4 @@
-name: helloworld
+name: HelloWorld
 version: 0.1.0
 
 extra-source-files:
@@ -11,7 +11,7 @@ library:
   source-dirs: src
 
 executables:
-  helloworld-exe:
+  hello_world:
     main: Main.hs
     source-dirs: app
     ghc-options:
@@ -19,4 +19,4 @@ executables:
       - -rtsopts
       - -with-rtsopts=-N
     dependencies:
-      - helloworld
+      - HelloWorld
