@@ -1,4 +1,4 @@
-cd wasm
-scripts/build.sh
+cd `dirname $0`
+./build_wasm.sh
 cd ..
 cargo run

@@ -1,6 +1,8 @@
 use wasmer_runtime::{error, func, imports, instantiate, Array, Ctx, WasmPtr};
 
-static WASM: &'static [u8] = include_bytes!("../wasm/pkg/sandbox_helloworld_rust_wasm_bg.wasm");
+static WASM: &'static [u8] = include_bytes!(
+    "../wasm/target/wasm32-unknown-unknown/release/sandbox_helloworld_rust_wasm.wasm"
+);
 
 fn main() -> error::Result<()> {
     let import_object = imports! {
