@@ -36,5 +36,6 @@ Sandbox Hello World
 - [sandbox-helloworld-rust-wasm](./sandbox-helloworld-rust-wasm)
 - [sandbox-helloworld-scheme](./sandbox-helloworld-scheme)
 - [sandbox-helloworld-swift](./sandbox-helloworld-swift)
+- [sandbox-helloworld-v](./sandbox-helloworld-v)
 - [sandbox-helloworld-vb](./sandbox-helloworld-vb)
 - [sandbox-helloworld-zig](./sandbox-helloworld-zig)
