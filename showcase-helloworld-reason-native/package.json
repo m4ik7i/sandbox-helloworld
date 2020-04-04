@@ -1,0 +1,40 @@
+{
+  "name": "hello_world",
+  "version": "0.1.0",
+  "esy": {
+    "build": "dune build -p <PACKAGE_NAME>",
+    "buildDev": "pesy",
+    "release": {
+      "releasedBinaries": [
+        "HelloWorldApp.exe"
+      ]
+    }
+  },
+  "buildDirs": {
+    "library": {
+      "name": "hello_world.lib",
+      "namespace": "HelloWorld"
+    },
+    "executable": {
+      "require": [
+        "hello_world.lib"
+      ],
+      "main": "HelloWorldApp",
+      "name": "HelloWorldApp.exe"
+    }
+  },
+  "scripts": {
+    "pesy": "bash -c 'env PESY_MODE=update pesy'"
+  },
+  "dependencies": {
+    "@opam/dune": ">=1.6.0",
+    "@esy-ocaml/reason": "*",
+    "ocaml": "^4.4.0"
+  },
+  "devDependencies": {
+    "ocaml": "4.7.1004",
+    "refmterr": "*",
+    "pesy": "*",
+    "@opam/merlin": "*"
+  }
+}

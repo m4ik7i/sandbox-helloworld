@@ -1,1 +1,0 @@
-SandboxHelloworldReasonNative.Util.hello();
