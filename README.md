@@ -17,6 +17,7 @@ Showcase Hello World
 - [showcase-helloworld-erlang](./showcase-helloworld-erlang)
 - [showcase-helloworld-fsharp](./showcase-helloworld-fsharp)
 - [showcase-helloworld-go](./showcase-helloworld-go)
+- [showcase-helloworld-groovy](./showcase-helloworld-groovy)
 - [showcase-helloworld-haskell](./showcase-helloworld-haskell)
 - [showcase-helloworld-io](./showcase-helloworld-io)
 - [showcase-helloworld-java](./showcase-helloworld-java)
