@@ -7,6 +7,7 @@ Showcase Hello World
 - [showcase-helloworld-bucklescript](./showcase-helloworld-bucklescript)
 - [showcase-helloworld-c](./showcase-helloworld-c)
 - [showcase-helloworld-clojure](./showcase-helloworld-clojure)
+- [showcase-helloworld-coconut](./showcase-helloworld-coconut)
 - [showcase-helloworld-commonlisp](./showcase-helloworld-commonlisp)
 - [showcase-helloworld-cpp](./showcase-helloworld-cpp)
 - [showcase-helloworld-crystal](./showcase-helloworld-crystal)
