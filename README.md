@@ -24,6 +24,7 @@ Showcase Hello World
 - [showcase-helloworld-julia](./showcase-helloworld-julia)
 - [showcase-helloworld-lua](./showcase-helloworld-lua)
 - [showcase-helloworld-nim](./showcase-helloworld-nim)
+- [showcase-helloworld-nimscript](./showcase-helloworld-nimscript)
 - [showcase-helloworld-ocaml](./showcase-helloworld-ocaml)
 - [showcase-helloworld-prolog](./showcase-helloworld-prolog)
 - [showcase-helloworld-python](./showcase-helloworld-python)
