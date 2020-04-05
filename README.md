@@ -21,6 +21,7 @@ Showcase Hello World
 - [showcase-helloworld-haskell](./showcase-helloworld-haskell)
 - [showcase-helloworld-io](./showcase-helloworld-io)
 - [showcase-helloworld-java](./showcase-helloworld-java)
+- [showcase-helloworld-java-spring](./showcase-helloworld-java-spring)
 - [showcase-helloworld-javascript-node](./showcase-helloworld-javascript-node)
 - [showcase-helloworld-julia](./showcase-helloworld-julia)
 - [showcase-helloworld-kotlin](./showcase-helloworld-kotlin)
