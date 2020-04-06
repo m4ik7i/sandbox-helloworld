@@ -4,6 +4,7 @@ Showcase Hello World
 
 ## Projects
 
+- [showcase-helloworld-ballerina](./showcase-helloworld-ballerina)
 - [showcase-helloworld-bucklescript](./showcase-helloworld-bucklescript)
 - [showcase-helloworld-c](./showcase-helloworld-c)
 - [showcase-helloworld-clojure](./showcase-helloworld-clojure)
