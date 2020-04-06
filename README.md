@@ -30,6 +30,7 @@ Showcase Hello World
 - [showcase-helloworld-nim](./showcase-helloworld-nim)
 - [showcase-helloworld-nimscript](./showcase-helloworld-nimscript)
 - [showcase-helloworld-ocaml](./showcase-helloworld-ocaml)
+- [showcase-helloworld-pony](./showcase-helloworld-pony)
 - [showcase-helloworld-prolog](./showcase-helloworld-prolog)
 - [showcase-helloworld-python](./showcase-helloworld-python)
 - [showcase-helloworld-racket](./showcase-helloworld-racket)
