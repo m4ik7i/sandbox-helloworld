@@ -27,6 +27,7 @@ Showcase Hello World
 - [showcase-helloworld-javascript-node](./showcase-helloworld-javascript-node)
 - [showcase-helloworld-julia](./showcase-helloworld-julia)
 - [showcase-helloworld-kotlin](./showcase-helloworld-kotlin)
+- [showcase-helloworld-llvmir](./showcase-helloworld-llvmir)
 - [showcase-helloworld-lua](./showcase-helloworld-lua)
 - [showcase-helloworld-nim](./showcase-helloworld-nim)
 - [showcase-helloworld-nimscript](./showcase-helloworld-nimscript)
