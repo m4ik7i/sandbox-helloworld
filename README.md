@@ -44,6 +44,7 @@ Showcase Hello World
 - [showcase-helloworld-scala](./showcase-helloworld-scala)
 - [showcase-helloworld-scheme](./showcase-helloworld-scheme)
 - [showcase-helloworld-swift](./showcase-helloworld-swift)
+- [showcase-helloworld-tcl](./showcase-helloworld-tcl)
 - [showcase-helloworld-typescript-deno](./showcase-helloworld-typescript-deno)
 - [showcase-helloworld-v](./showcase-helloworld-v)
 - [showcase-helloworld-vb](./showcase-helloworld-vb)
