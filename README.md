@@ -5,7 +5,6 @@ Showcase Hello World
 ## Projects
 
 - [showcase-helloworld-ballerina](./showcase-helloworld-ballerina)
-- [showcase-helloworld-bucklescript](./showcase-helloworld-bucklescript)
 - [showcase-helloworld-c](./showcase-helloworld-c)
 - [showcase-helloworld-clojure](./showcase-helloworld-clojure)
 - [showcase-helloworld-coconut](./showcase-helloworld-coconut)
@@ -32,6 +31,7 @@ Showcase Hello World
 - [showcase-helloworld-nim](./showcase-helloworld-nim)
 - [showcase-helloworld-nimscript](./showcase-helloworld-nimscript)
 - [showcase-helloworld-ocaml](./showcase-helloworld-ocaml)
+- [showcase-helloworld-ocaml-bucklescript](./showcase-helloworld-ocaml-bucklescript)
 - [showcase-helloworld-pony](./showcase-helloworld-pony)
 - [showcase-helloworld-prolog](./showcase-helloworld-prolog)
 - [showcase-helloworld-python](./showcase-helloworld-python)
