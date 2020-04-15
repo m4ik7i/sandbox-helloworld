@@ -43,6 +43,7 @@ Showcase Hello World
 - [showcase-helloworld-rust-wasm](./showcase-helloworld-rust-wasm)
 - [showcase-helloworld-scala](./showcase-helloworld-scala)
 - [showcase-helloworld-scheme](./showcase-helloworld-scheme)
+- [showcase-helloworld-scheme-gauche](./showcase-helloworld-scheme-gauche)
 - [showcase-helloworld-swift](./showcase-helloworld-swift)
 - [showcase-helloworld-tcl](./showcase-helloworld-tcl)
 - [showcase-helloworld-typescript-deno](./showcase-helloworld-typescript-deno)
